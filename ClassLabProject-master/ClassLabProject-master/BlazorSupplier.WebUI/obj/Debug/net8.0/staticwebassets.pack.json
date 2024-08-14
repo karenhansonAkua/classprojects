@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorSupplier.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorSupplier.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\dashboard.css",
+      "PackagePath": "staticwebassets\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\js\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\KAREN AKUA HANSON\\Desktop\\folders\\L300\\sem2\\C#\\ClassLabProject-master\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\signin.css",
+      "PackagePath": "staticwebassets\\signin.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSupplier.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSupplier.WebUI.props",
+      "PackagePath": "build\\BlazorSupplier.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSupplier.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSupplier.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSupplier.WebUI.props",
+      "PackagePath": "buildTransitive\\BlazorSupplier.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
